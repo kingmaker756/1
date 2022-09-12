@@ -9,13 +9,20 @@
 
 
 
-
 ## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+- Simple
+- Object-Oriented
+- Portable
+- Platform independent
+- Secured
+- Robust
+- Architecture neutral
+- Interpreted
+- High Performance
+- Multithreaded
+- Distributed
+- Dynamic
 
 
 
