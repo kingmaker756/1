@@ -23,16 +23,7 @@ class Stack
         node.next = top;
         top = node;
     }
- 
-
-
-
-
-
-
-
-
-   public int peek()
+    public int peek()
     {
         if (top!=null) {
             return top.data;
